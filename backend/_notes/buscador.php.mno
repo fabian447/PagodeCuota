@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:cedula;datatype:int,name:nombre;datatype:blob,name:apellido;datatype:blob,name:direccion;datatype:blob,name:telefono;datatype:blob,name:correo;datatype:blob" />
+	<infoitem key="UD_Recordset2" value="name:id;datatype:int,name:cedula;datatype:int,name:cuota1;datatype:blob,name:cuota2;datatype:blob,name:cuota3;datatype:blob,name:cuota4;datatype:blob,name:cuota5;datatype:blob,name:cuota6;datatype:blob,name:fecha;datatype:timestamp" />
+	<infoitem key="UD_Recordset3" value="name:id;datatype:int,name:cedula;datatype:int,name:cuota1;datatype:blob,name:cuota2;datatype:blob,name:cuota3;datatype:blob,name:cuota4;datatype:blob,name:cuota5;datatype:blob,name:cuota6;datatype:blob,name:fecha;datatype:timestamp" />
+</info>
